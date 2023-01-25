@@ -5,6 +5,7 @@ and I'm currently continuing my programming journey aiming to be a MERNstack dev
 
 📇📇 Contact me 📇📇
 - 📫 fatomazahrabouamoud@gmail.com
+- 
 🛠 Skills
 - HTML, CSS (Bootstrap-Argon CSS - Tailwind )
 - JavaScript 
